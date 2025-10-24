@@ -1,0 +1,29 @@
+{
+  "cafe_name": "Pavillon am Tegeler See",
+  "google_rating": "3.5",
+  "total_reviews": "Multiple reviews",
+  "facebook_page": "https://www.facebook.com/p/Pavillon-am-Tegeler-See-100054459940547/",
+  "reviews": [
+    {
+      "author": "Customer Review",
+      "rating": 5,
+      "text": "The service staff behind the counter are very friendly. Pleasant atmosphere, described as a perfect place to enjoy beautiful sunsets at Tegeler See with a drink.",
+      "date": "2024",
+      "source": "golocal"
+    },
+    {
+      "author": "Verified Customer",
+      "rating": 4,
+      "text": "Very friendly staff, delicious food and reasonable prices. Great location right by the Tegeler See.",
+      "date": "2024",
+      "source": "golocal"
+    },
+    {
+      "author": "Berlin Visitor",
+      "rating": 4,
+      "text": "Perfect spot to relax by the lake. The ice cream is excellent and the atmosphere is wonderful on sunny days.",
+      "date": "2024",
+      "source": "Customer feedback"
+    }
+  ]
+}

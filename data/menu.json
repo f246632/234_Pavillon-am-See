@@ -1,0 +1,65 @@
+{
+  "cafe_name": "Pavillon am Tegeler See",
+  "type": "Eiscafé",
+  "menu_categories": [
+    {
+      "category": "Eis & Desserts",
+      "items": [
+        {
+          "name": "Hausgemachtes Eis",
+          "description": "Verschiedene Sorten täglich frisch zubereitet",
+          "price": "ab €2.50"
+        },
+        {
+          "name": "Eiskaffee",
+          "description": "Klassischer Eiskaffee mit Vanilleeis und Sahne",
+          "price": "€5.50"
+        },
+        {
+          "name": "Eisbecher",
+          "description": "Verschiedene Eisbecher-Kreationen",
+          "price": "ab €6.50"
+        }
+      ]
+    },
+    {
+      "category": "Getränke",
+      "items": [
+        {
+          "name": "Kaffee & Espresso",
+          "description": "Frisch gebrühter Kaffee und Espresso-Spezialitäten",
+          "price": "ab €2.80"
+        },
+        {
+          "name": "Erfrischungsgetränke",
+          "description": "Kalte Getränke und hausgemachte Limonade",
+          "price": "ab €3.50"
+        },
+        {
+          "name": "Bier vom Fass",
+          "description": "Regionale Biersorten",
+          "price": "ab €4.20"
+        }
+      ]
+    },
+    {
+      "category": "Snacks",
+      "items": [
+        {
+          "name": "Kuchen & Torten",
+          "description": "Täglich wechselnde Kuchenauswahl",
+          "price": "ab €3.80"
+        },
+        {
+          "name": "Kleine Speisen",
+          "description": "Snacks und leichte Gerichte",
+          "price": "ab €5.00"
+        }
+      ]
+    }
+  ],
+  "opening_hours": {
+    "note": "Öffnungszeiten wetterabhängig",
+    "typical": "Ab 12:00 bis 20:00 Uhr oder länger bei schönem Wetter"
+  }
+}
